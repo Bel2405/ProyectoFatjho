@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Oleada de robos en temporada navideña — Resumen</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <main class="container">
+        <header>
+            <h1>Oleada de robos en temporada navideña</h1>
+            <p class="subtitle">Descripción breve y medidas prácticas</p>
+        </header>
+
+        <section class="card">
+            <h2>Definición del problema</h2>
+            <p>
+                Durante la temporada navideña se registra un aumento en delitos contra la propiedad
+                (robos en comercios, robos en la vía pública y hurtos a domicilios). El incremento
+                se relaciona con mayor flujo de personas, compras en efectivo y oportunidades visibles.
+            </p>
+        </section>
+
+        <section class="card">
+            <h2>Casos y evidencias (resumen)</h2>
+            <ul>
+                <li>Robos a clientes y asaltos en zonas comerciales durante horas de mayor afluencia.</li>
+                <li>Incremento de hurtos a domicilios por paquetes entregados en la puerta.</li>
+                <li>Robos a vehículos estacionados en centros comerciales y mercados navideños.</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>Solución propuesta (práctica)</h2>
+            <ol>
+                <li><strong>Prevención comunitaria:</strong> campañas locales de información y coordinación entre
+                    vecinos y comercios.</li>
+                <li><strong>Medidas de control:</strong> mayor presencia policial estratégica en puntos críticos y
+                    patrullajes en horarios pico.</li>
+                <li><strong>Tecnología accesible:</strong> cámaras visibles en comercios y uso de iluminación y
+                    señalización para disuadir delitos.</li>
+                <li><strong>Buenas prácticas personales:</strong> evitar exhibir grandes cantidades de efectivo,
+                    asegurar paquetes y no dejar objetos a la vista en vehículos.</li>
+            </ol>
+            <p class="note">
+                Estas medidas combinadas (comunidad + autoridad + prácticas individuales) reducen el riesgo y mejoran la
+                sensación de seguridad.
+            </p>
+        </section>
+
+        <section class="card comments">
+            <h2>Comentarios</h2>
+            <form id="comment-form" action="#" method="post">
+
+                <label for="message">Comentario</label>
+                <textarea id="message" name="message" rows="4" placeholder="Escribe tu comentario..."></textarea>
+
+                <button type="submit">Enviar</button>
+            </form>
+            <p class="small">Nota: este formulario es un ejemplo visual; para usarlo en producción necesita un backend.
+            </p>
+        </section>
+
+        <footer class="footer">
+            <p>Documento informativo — sencillo y práctico.</p>
+        </footer>
+    </main>
+</body>
+
+</html>
