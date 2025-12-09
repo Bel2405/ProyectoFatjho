@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Oleada de robos en temporada navideña — Resumen</title>
+    <title>Oleada de robos en temporada navideña </title>
     <link rel="stylesheet" href="styles.css" />
 </head>
 
